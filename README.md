@@ -1,4 +1,4 @@
-#Alumnet - Alumni Tracking System
+**Alumnet - Alumni Tracking System**
 Welcome to Alumnet, a comprehensive Alumni Tracking System developed by students of SAKEC.
 
 Introduction
